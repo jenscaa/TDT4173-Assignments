@@ -1,2 +1,2 @@
 # TDT4173-Assignments
-Assignment solutions for TDT4173 (Moderne maskinlæring i praksis)
+Assignment solutions for TDT4173 (Modern Machine Learning in Practice)
